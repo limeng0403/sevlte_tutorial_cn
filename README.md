@@ -7,3 +7,5 @@ Sevlte官方教程中文翻译
 - [x] [Svelte教程翻译（三、逻辑渲染）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E4%B8%89%E3%80%81%E9%80%BB%E8%BE%91%E6%B8%B2%E6%9F%93%EF%BC%89.md)
 - [x] [Svelte教程翻译（四、事件）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%9B%9B%E3%80%81%E4%BA%8B%E4%BB%B6%EF%BC%89.md)
 - [x] [Svelte教程翻译（五、组件绑定）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E4%BA%94%E3%80%81%E7%BB%84%E4%BB%B6%E7%BB%91%E5%AE%9A%EF%BC%89.md)
+- [x] [Svelte教程翻译（六、生命周期）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%85%AD%E3%80%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%89.md)
+- [x] [Svelte教程翻译（七、存储）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E4%B8%83%E3%80%81%E5%AD%98%E5%82%A8%EF%BC%89.md)
