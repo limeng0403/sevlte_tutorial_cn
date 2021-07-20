@@ -11,3 +11,7 @@ Sevlte官方教程中文翻译
 - [x] [Svelte教程翻译（七、存储）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E4%B8%83%E3%80%81%E5%AD%98%E5%82%A8%EF%BC%89.md)
 - [x] [Svelte教程翻译（八、补间动画）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%85%AB%E3%80%81%E8%A1%A5%E9%97%B4%E5%8A%A8%E7%94%BB%EF%BC%89.md)
 - [x] [Svelte教程翻译（九、过渡）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E4%B9%9D%E3%80%81%E8%BF%87%E6%B8%A1%EF%BC%89.md) 
+- [x] [Svelte教程翻译（十、动画）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%8D%81%E3%80%81%E5%8A%A8%E7%94%BB%EF%BC%89.md)
+- [x] [Svelte教程翻译（十一、动作）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%8D%81%E4%B8%80%E3%80%81%E5%8A%A8%E4%BD%9C%EF%BC%89.md)
+- [x] [Svelte教程翻译（十二、Classes）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%8D%81%E4%BA%8C%E3%80%81Classes%EF%BC%89.md)
+- [x] [Svelte教程翻译（十三、插槽）](https://github.com/limeng0403/sevlte_tutorial_cn/blob/main/Svelte%E6%95%99%E7%A8%8B%E7%BF%BB%E8%AF%91%EF%BC%88%E5%8D%81%E4%B8%89%E3%80%81%E6%8F%92%E6%A7%BD%EF%BC%89.md) 
